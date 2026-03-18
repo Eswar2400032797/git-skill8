@@ -1,0 +1,5 @@
+com/ecommerce/productsearch/controller/ProductController.class
+com/ecommerce/productsearch/ProductsearchApplication.class
+com/ecommerce/productsearch/model/Product.class
+com/ecommerce/productsearch/repository/ProductRepository.class
+com/ecommerce/productsearch/config/DataInitializer.class
